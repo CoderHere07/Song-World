@@ -1,0 +1,6 @@
+  <svg width="25px" height="25px" viewBox="0 0 100 80" xmlns="http://www.w3.org/2000/svg"
+       style="width:40px; height:40px; cursor:pointer; stroke:white; stroke-width:6; stroke-linecap:round; fill:none;">
+    <line x1="10" y1="20" x2="90" y2="20"></line>
+    <line x1="10" y1="40" x2="90" y2="40"></line>
+    <line x1="10" y1="60" x2="90" y2="60"></line>
+  </svg>
