@@ -53,4 +53,4 @@ By default, the repository contains folder structures for various artists but **
 ## 📝 License
 This project is open-source and free to use.
 
-Made with ❤️ by [Your Name/Github]
+Made with ❤️ by Adnan Shahzad
